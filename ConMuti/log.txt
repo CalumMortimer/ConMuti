@@ -1,0 +1,11 @@
+[O_O],LIVE mutant,TYPE: ASTK,FILE: Account.java,METHOD: void print(),LINE: 37
+[X_X],dead mutant,TYPE: RSK,FILE: Account.java,METHOD: void depsite(double),LINE: 13
+[X_X],dead mutant,TYPE: RSK,FILE: Account.java,METHOD: void withdraw(double),LINE: 17
+[X_X],dead mutant,TYPE: RSK,FILE: Account.java,METHOD: void transfer(Account, double),LINE: 21
+[O_O],LIVE mutant,TYPE: RSK,FILE: Account.java,METHOD: void print(),LINE: 37
+
+
+Survived mutants found this program run: 2.0
+Killed mutants found this program run: 3.0
+ 
+The total mutation score for the unit tests is 60.0%
